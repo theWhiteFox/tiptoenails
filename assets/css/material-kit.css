@@ -17258,9 +17258,9 @@ footer .pull-center {
   cursor: not-allowed;
 }
 
-.slider {
+/* .slider {
   background: #c8c8c8;
-}
+} */
 
 .slider .noUi-connect {
   background-color: #9c27b0;
@@ -17344,7 +17344,7 @@ footer .pull-center {
 }
 
 .section {
-  padding: 70px 0;
+  padding: 40px 0;
 }
 
 .profile-page .page-header {
